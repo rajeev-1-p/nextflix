@@ -1,23 +1,26 @@
 # Nextflix
 
--create React App
--configured TailwindCSS
+- create React App
+- configured TailwindCSS
+- Header 
+- Login form
+- Sign Up form
 
 
 
 
 # Features
 
--Login/ Sign up 
+- Login/ Sign up 
      - Sign In/sign up from 
      - redirect to Browser Page 
--Browse (after authentication )
+- Browse (after authentication )
     - Header
     - Main Movie 
          - trailer in background
          - Title & discription
          - Movie suggestion 
-             - Movie list 
+             - Movie list * N
 
 - NextflixGPT
       - Search Bar
